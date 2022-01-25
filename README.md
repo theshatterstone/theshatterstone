@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aleks Gerenski, @theshatterstone
 - 👀 I’m interested in Software, Web Dev, Operating Systems and System Architecture
-- 🌱 I’m currently studying BTEC L3 in IT at CONEL Tottenham
+- 🌱 I’m currently studying BTEC L3 National Foundation Diploma in IT at CONEL Tottenham
 - 📫 How to reach me: agerenski@hotmail.com
 
 <!---
