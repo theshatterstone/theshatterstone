@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying BTEC L3 Extended Diploma in IT at CONEL Tottenham
 - 📫 How to reach me: agerenski@hotmail.com
 
-NOTE: I have recently switched to GitLab for my projects, so you can find me there at https://gitlab.com/theshatterstone/
+NOTE: I have recently switched to GitLab for all my projects, so you can find me there at https://gitlab.com/theshatterstone/
 
 <!---
 theshatterstone/theshatterstone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
